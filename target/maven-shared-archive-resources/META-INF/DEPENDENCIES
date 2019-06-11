@@ -1,0 +1,93 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+Apache Edgent Samples (Java 8):
+
+
+From: 'an unknown organization'
+  - Gson (https://github.com/google/gson/gson) com.google.code.gson:gson:jar:2.8.0
+    License: Apache 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Metrics Core (http://metrics.codahale.com/metrics-core/) io.dropwizard.metrics:metrics-core:bundle:3.1.2
+    License: Apache License 2.0  (http://www.apache.org/licenses/LICENSE-2.0.html)
+
+From: 'GlassFish Community' (https://glassfish.dev.java.net)
+  - Java Servlet API (http://servlet-spec.java.net) javax.servlet:javax.servlet-api:jar:3.1.0
+    License: CDDL + GPLv2 with classpath exception  (https://glassfish.dev.java.net/nonav/public/CDDL+GPL.html)
+
+From: 'QOS.ch' (http://www.qos.ch)
+  - SLF4J API Module (http://www.slf4j.org) org.slf4j:slf4j-api:jar:1.7.12
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+  - SLF4J JDK14 Binding (http://www.slf4j.org) org.slf4j:slf4j-jdk14:jar:1.7.12
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+
+From: 'The Apache Software Foundation' (https://www.apache.org/)
+  - Apache Edgent (Java 8): API: Execution (https://www.apache.org/edgent-parent/edgent-api/edgent-api-execution/) org.apache.edgent:edgent-api-execution:jar:1.2.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Edgent (Java 8): API: Function (https://www.apache.org/edgent-parent/edgent-api/edgent-api-function/) org.apache.edgent:edgent-api-function:jar:1.2.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Edgent (Java 8): API: Graph (https://www.apache.org/edgent-parent/edgent-api/edgent-api-graph/) org.apache.edgent:edgent-api-graph:jar:1.2.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Edgent (Java 8): API: Oplet (https://www.apache.org/edgent-parent/edgent-api/edgent-api-oplet/) org.apache.edgent:edgent-api-oplet:jar:1.2.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Edgent (Java 8): API: Topology (https://www.apache.org/edgent-parent/edgent-api/edgent-api-topology/) org.apache.edgent:edgent-api-topology:jar:1.2.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Edgent (Java 8): API: Window (https://www.apache.org/edgent-parent/edgent-api/edgent-api-window/) org.apache.edgent:edgent-api-window:jar:1.2.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Edgent (Java 8): Apps: IoT (https://www.apache.org/edgent-parent/edgent-apps/edgent-apps-iot/) org.apache.edgent:edgent-apps-iot:jar:1.2.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Edgent (Java 8): Apps: Runtime (https://www.apache.org/edgent-parent/edgent-apps/edgent-apps-runtime/) org.apache.edgent:edgent-apps-runtime:jar:1.2.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Edgent (Java 8): Connectors: IoT (https://www.apache.org/edgent-parent/edgent-connectors/edgent-connectors-iot/) org.apache.edgent:edgent-connectors-iot:jar:1.2.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Edgent (Java 8): Connectors: PubSub (https://www.apache.org/edgent-parent/edgent-connectors/edgent-connectors-pubsub/) org.apache.edgent:edgent-connectors-pubsub:jar:1.2.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Edgent (Java 8): Console: Server (https://www.apache.org/edgent-parent/edgent-console/edgent-console-server/) org.apache.edgent:edgent-console-server:jar:1.2.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Edgent (Java 8): Providers: Development (https://www.apache.org/edgent-parent/edgent-providers/edgent-providers-development/) org.apache.edgent:edgent-providers-development:jar:1.2.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Edgent (Java 8): Providers: Direct (https://www.apache.org/edgent-parent/edgent-providers/edgent-providers-direct/) org.apache.edgent:edgent-providers-direct:jar:1.2.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Edgent (Java 8): Providers: IoT (https://www.apache.org/edgent-parent/edgent-providers/edgent-providers-iot/) org.apache.edgent:edgent-providers-iot:jar:1.2.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Edgent (Java 8): Runtime: AppService (https://www.apache.org/edgent-parent/edgent-runtime/edgent-runtime-appservice/) org.apache.edgent:edgent-runtime-appservice:jar:1.2.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Edgent (Java 8): Runtime: Etiao (https://www.apache.org/edgent-parent/edgent-runtime/edgent-runtime-etiao/) org.apache.edgent:edgent-runtime-etiao:jar:1.2.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Edgent (Java 8): Runtime: JMXControl (https://www.apache.org/edgent-parent/edgent-runtime/edgent-runtime-jmxcontrol/) org.apache.edgent:edgent-runtime-jmxcontrol:jar:1.2.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Edgent (Java 8): Runtime: JobRegistry (https://www.apache.org/edgent-parent/edgent-runtime/edgent-runtime-jobregistry/) org.apache.edgent:edgent-runtime-jobregistry:jar:1.2.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Edgent (Java 8): Runtime: JSONControl (https://www.apache.org/edgent-parent/edgent-runtime/edgent-runtime-jsoncontrol/) org.apache.edgent:edgent-runtime-jsoncontrol:jar:1.2.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Edgent (Java 8): SPI: Graph (https://www.apache.org/edgent-parent/edgent-spi/edgent-spi-graph/) org.apache.edgent:edgent-spi-graph:jar:1.2.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Edgent (Java 8): SPI: Topology (https://www.apache.org/edgent-parent/edgent-spi/edgent-spi-topology/) org.apache.edgent:edgent-spi-topology:jar:1.2.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Edgent (Java 8): Utils: Metrics (https://www.apache.org/edgent-parent/edgent-utils/edgent-utils-metrics/) org.apache.edgent:edgent-utils-metrics:jar:1.2.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Edgent (Java 8): Utils: Streamscope (https://www.apache.org/edgent-parent/edgent-utils/edgent-utils-streamscope/) org.apache.edgent:edgent-utils-streamscope:jar:1.2.0
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Webtide' (http://webtide.com)
+  - Jetty :: Http Utility (http://www.eclipse.org/jetty) org.eclipse.jetty:jetty-http:jar:9.3.6.v20151106
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: IO Utility (http://www.eclipse.org/jetty) org.eclipse.jetty:jetty-io:jar:9.3.6.v20151106
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: Security (http://www.eclipse.org/jetty) org.eclipse.jetty:jetty-security:jar:9.3.6.v20151106
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: Server Core (http://www.eclipse.org/jetty) org.eclipse.jetty:jetty-server:jar:9.3.6.v20151106
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: Servlet Handling (http://www.eclipse.org/jetty) org.eclipse.jetty:jetty-servlet:jar:9.3.6.v20151106
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: Utilities (http://www.eclipse.org/jetty) org.eclipse.jetty:jetty-util:jar:9.3.6.v20151106
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: Webapp Application Support (http://www.eclipse.org/jetty) org.eclipse.jetty:jetty-webapp:jar:9.3.6.v20151106
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+  - Jetty :: XML utilities (http://www.eclipse.org/jetty) org.eclipse.jetty:jetty-xml:jar:9.3.6.v20151106
+    License: Apache Software License - Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)    License: Eclipse Public License - Version 1.0  (http://www.eclipse.org/org/documents/epl-v10.php)
+
+
+
+
